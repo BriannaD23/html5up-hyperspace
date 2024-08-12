@@ -2572,7 +2572,7 @@ input, select, textarea {
 
 	#computer-img {
 		margin-top: 6rem;
-		width: 34rem; 
+		width: 100%; 
 		height: auto; 
 		border-radius: 10px; 
 		margin:0 auto;
